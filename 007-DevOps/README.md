@@ -1,4 +1,4 @@
-# What The Hack - Intro to Kubernetes
+# What The Hack - DevOps
 
 Repo contains:
 - Challenges
